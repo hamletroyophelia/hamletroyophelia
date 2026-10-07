@@ -1,0 +1,173 @@
+{
+  "schema_version": 1,
+  "owner": "hamletroyophelia",
+  "owner_id": 119651951,
+  "profile_repository": "hamletroyophelia",
+  "exclude_forks": true,
+  "exclude_archived": true,
+  "recent_limit": 5,
+  "featured": [
+    {
+      "repository_id": 1337066938,
+      "title": "♫ Q01 · 让 MIDI 走上舞台",
+      "label": "MIDI Dance Avatar",
+      "summary": "面向 Windows 的本地编辑器，将音符与歌词转成 Live2D 角色的舞蹈、口型和舞台可视化，支持视频导出。",
+      "tags": [
+        "TypeScript",
+        "React",
+        "Electron",
+        "MIDI / Live2D"
+      ]
+    },
+    {
+      "repository_id": 1389304752,
+      "title": "♪ Q02 · 连接声音的魔法",
+      "label": "Music Production Agent",
+      "summary": "面向 Synthesizer V Studio 2 Pro 与 REAPER 的工作流和本地工具集成模板，覆盖歌词旋律对齐、声库调参、编曲混音与导出。",
+      "tags": [
+        "Synthesizer V",
+        "REAPER",
+        "Agent workflows"
+      ]
+    },
+    {
+      "repository_id": 1404081743,
+      "title": "あ Q03 · 听懂屏幕另一端",
+      "label": "LiveLingo",
+      "summary": "原生 macOS 双语字幕工具，为 Safari 网页音频生成日语／英语原文与中文字幕，使用本机 Apple 语音识别和翻译模型。",
+      "tags": [
+        "Swift",
+        "macOS",
+        "Speech & Translation"
+      ]
+    }
+  ],
+  "achievements": [
+    {
+      "id": "first-flight",
+      "title": "初次起航",
+      "english": "FIRST FLIGHT",
+      "description": "公开作品：Python 的第一艘飞船",
+      "color": "mint",
+      "icon": "ship",
+      "rule": {
+        "kind": "repository_public",
+        "repository_id": 666255199
+      }
+    },
+    {
+      "id": "stage-builder",
+      "title": "舞台搭建师",
+      "english": "STAGE BUILDER",
+      "description": "公开作品：MIDI 角色与舞台",
+      "color": "rose",
+      "icon": "stage",
+      "rule": {
+        "kind": "repository_public",
+        "repository_id": 1337066938
+      }
+    },
+    {
+      "id": "sound-alchemist",
+      "title": "声音炼金术",
+      "english": "SOUND ALCHEMIST",
+      "description": "公开模板：人声、编曲与混音",
+      "color": "gold",
+      "icon": "music",
+      "rule": {
+        "kind": "repository_public",
+        "repository_id": 1389304752
+      }
+    },
+    {
+      "id": "language-bridge",
+      "title": "跨语之桥",
+      "english": "LANGUAGE BRIDGE",
+      "description": "公开作品：直播双语字幕",
+      "color": "mint",
+      "icon": "bridge",
+      "rule": {
+        "kind": "repository_public",
+        "repository_id": 1404081743
+      }
+    },
+    {
+      "id": "flow-observer",
+      "title": "流场观察者",
+      "english": "FLOW OBSERVER",
+      "description": "公开 MVP：可追溯 CFD 工作流",
+      "color": "purple",
+      "icon": "flow",
+      "rule": {
+        "kind": "repository_public",
+        "repository_id": 1349546130
+      }
+    },
+    {
+      "id": "map-maker",
+      "title": "地图拓荒者",
+      "english": "MAP MAKER",
+      "description": "公开原创项目达到 5 个",
+      "color": "gold",
+      "icon": "ship",
+      "rule": {
+        "kind": "metric_at_least",
+        "metric": "project_count",
+        "threshold": 5
+      }
+    },
+    {
+      "id": "first-echo",
+      "title": "初次回响",
+      "english": "FIRST ECHO",
+      "description": "公开原创项目获得至少 1 星",
+      "color": "rose",
+      "icon": "music",
+      "rule": {
+        "kind": "metric_at_least",
+        "metric": "total_stars",
+        "threshold": 1
+      }
+    },
+    {
+      "id": "language-runes",
+      "title": "多语符文",
+      "english": "LANGUAGE RUNES",
+      "description": "仓库主要语言达到 3 种",
+      "color": "purple",
+      "icon": "bridge",
+      "rule": {
+        "kind": "metric_at_least",
+        "metric": "language_count",
+        "threshold": 3
+      }
+    },
+    {
+      "id": "world-expansion",
+      "title": "世界扩张",
+      "english": "WORLD EXPANSION",
+      "description": "公开原创项目达到 10 个",
+      "color": "mint",
+      "icon": "stage",
+      "rule": {
+        "kind": "metric_at_least",
+        "metric": "project_count",
+        "threshold": 10
+      }
+    },
+    {
+      "id": "ten-echoes",
+      "title": "十重回响",
+      "english": "TEN ECHOES",
+      "description": "公开原创项目累计 10 星",
+      "color": "gold",
+      "icon": "music",
+      "rule": {
+        "kind": "metric_at_least",
+        "metric": "total_stars",
+        "threshold": 10
+      }
+    }
+  ],
+  "manifest_repository_limit": 8
+}

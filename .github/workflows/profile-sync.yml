@@ -1,0 +1,49 @@
+# Approved: daily anonymous public reads; write generated files only in this profile repo.
+name: Refresh Roy public profile
+
+'on':
+  schedule:
+    - cron: '17 1 * * *' # 09:17 Asia/Shanghai; GitHub may run later.
+  workflow_dispatch:
+  push:
+    branches: [main]
+    paths:
+      - 'config/profile.json'
+      - 'scripts/sync_profile.py'
+      - 'tests/**'
+      - '.github/workflows/profile-sync.yml'
+
+permissions: {}
+concurrency:
+  group: public-profile-sync
+  cancel-in-progress: false
+
+jobs:
+  refresh:
+    if: github.repository == 'hamletroyophelia/hamletroyophelia' && github.ref_name == github.event.repository.default_branch
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    permissions:
+      contents: write # Only this profile repository; short-lived built-in token.
+    steps:
+      - name: Check out the profile repository
+        uses: actions/checkout@11d5960a326750d5838078e36cf38b85af677262 # v4
+        with:
+          ref: ${{ github.event.repository.default_branch }}
+      - name: Verify data boundaries and regression tests
+        run: python3 -m unittest discover -s tests -v
+      - name: Fetch anonymous public data and render profile
+        run: python3 scripts/sync_profile.py --root .
+      - name: Commit changed generated files only
+        shell: bash
+        run: |
+          set -euo pipefail
+          git add -A -- README.md data/public-snapshot.json data/achievement-evidence.json data/generated-files.json assets/generated
+          if git diff --cached --quiet; then
+            echo 'Public profile is already current.'
+            exit 0
+          fi
+          git config user.name 'github-actions[bot]'
+          git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
+          git commit -m 'Update public project stats, equipment and achievements'
+          git push origin HEAD

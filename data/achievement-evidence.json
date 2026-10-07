@@ -1,0 +1,146 @@
+{
+  "schema_version": 1,
+  "snapshot_sha256": "972123ab4aa301abc37f0c949681f27957a9dce6c6644838652dcc6c3421c08d",
+  "achievements": [
+    {
+      "id": "first-flight",
+      "title": "初次起航",
+      "unlocked": true,
+      "rule": {
+        "kind": "repository_public",
+        "repository_id": 666255199
+      },
+      "evidence": {
+        "repository_id": 666255199,
+        "public_repository": "https://github.com/hamletroyophelia/Alien_Invasion"
+      }
+    },
+    {
+      "id": "stage-builder",
+      "title": "舞台搭建师",
+      "unlocked": true,
+      "rule": {
+        "kind": "repository_public",
+        "repository_id": 1337066938
+      },
+      "evidence": {
+        "repository_id": 1337066938,
+        "public_repository": "https://github.com/hamletroyophelia/midi-dance-avatar"
+      }
+    },
+    {
+      "id": "sound-alchemist",
+      "title": "声音炼金术",
+      "unlocked": true,
+      "rule": {
+        "kind": "repository_public",
+        "repository_id": 1389304752
+      },
+      "evidence": {
+        "repository_id": 1389304752,
+        "public_repository": "https://github.com/hamletroyophelia/music-production-agent"
+      }
+    },
+    {
+      "id": "language-bridge",
+      "title": "跨语之桥",
+      "unlocked": true,
+      "rule": {
+        "kind": "repository_public",
+        "repository_id": 1404081743
+      },
+      "evidence": {
+        "repository_id": 1404081743,
+        "public_repository": "https://github.com/hamletroyophelia/safari-live-subtitles"
+      }
+    },
+    {
+      "id": "flow-observer",
+      "title": "流场观察者",
+      "unlocked": true,
+      "rule": {
+        "kind": "repository_public",
+        "repository_id": 1349546130
+      },
+      "evidence": {
+        "repository_id": 1349546130,
+        "public_repository": "https://github.com/hamletroyophelia/openfoam-cfd-agents"
+      }
+    },
+    {
+      "id": "map-maker",
+      "title": "地图拓荒者",
+      "unlocked": true,
+      "rule": {
+        "kind": "metric_at_least",
+        "metric": "project_count",
+        "threshold": 5
+      },
+      "evidence": {
+        "metric": "project_count",
+        "observed": 7,
+        "threshold": 5
+      }
+    },
+    {
+      "id": "first-echo",
+      "title": "初次回响",
+      "unlocked": true,
+      "rule": {
+        "kind": "metric_at_least",
+        "metric": "total_stars",
+        "threshold": 1
+      },
+      "evidence": {
+        "metric": "total_stars",
+        "observed": 1,
+        "threshold": 1
+      }
+    },
+    {
+      "id": "language-runes",
+      "title": "多语符文",
+      "unlocked": true,
+      "rule": {
+        "kind": "metric_at_least",
+        "metric": "language_count",
+        "threshold": 3
+      },
+      "evidence": {
+        "metric": "language_count",
+        "observed": 4,
+        "threshold": 3
+      }
+    },
+    {
+      "id": "world-expansion",
+      "title": "世界扩张",
+      "unlocked": false,
+      "rule": {
+        "kind": "metric_at_least",
+        "metric": "project_count",
+        "threshold": 10
+      },
+      "evidence": {
+        "metric": "project_count",
+        "observed": 7,
+        "threshold": 10
+      }
+    },
+    {
+      "id": "ten-echoes",
+      "title": "十重回响",
+      "unlocked": false,
+      "rule": {
+        "kind": "metric_at_least",
+        "metric": "total_stars",
+        "threshold": 10
+      },
+      "evidence": {
+        "metric": "total_stars",
+        "observed": 1,
+        "threshold": 10
+      }
+    }
+  ]
+}

@@ -1,0 +1,152 @@
+{
+  "schema_version": 1,
+  "owner": "hamletroyophelia",
+  "owner_id": 119651951,
+  "scope": "public-owned-nonfork-nonarchived-excluding-profile",
+  "repositories": [
+    {
+      "id": 666255199,
+      "name": "Alien_Invasion",
+      "full_name": "hamletroyophelia/Alien_Invasion",
+      "url": "https://github.com/hamletroyophelia/Alien_Invasion",
+      "description": "Simple aircraft shooter",
+      "language": "Python",
+      "stars": 1,
+      "forks": 0,
+      "pushed_at": "2023-07-19T11:03:35Z",
+      "created_at": "2023-07-14T04:35:50Z"
+    },
+    {
+      "id": 668651710,
+      "name": "learning_log",
+      "full_name": "hamletroyophelia/learning_log",
+      "url": "https://github.com/hamletroyophelia/learning_log",
+      "description": "",
+      "language": "Python",
+      "stars": 0,
+      "forks": 0,
+      "pushed_at": "2023-07-20T13:36:35Z",
+      "created_at": "2023-07-20T09:49:17Z"
+    },
+    {
+      "id": 783119606,
+      "name": "pot-app-collection-plugin-anki",
+      "full_name": "hamletroyophelia/pot-app-collection-plugin-anki",
+      "url": "https://github.com/hamletroyophelia/pot-app-collection-plugin-anki",
+      "description": "",
+      "language": "Rust",
+      "stars": 0,
+      "forks": 0,
+      "pushed_at": "2024-04-07T01:58:44Z",
+      "created_at": "2024-04-07T01:52:53Z"
+    },
+    {
+      "id": 1337066938,
+      "name": "midi-dance-avatar",
+      "full_name": "hamletroyophelia/midi-dance-avatar",
+      "url": "https://github.com/hamletroyophelia/midi-dance-avatar",
+      "description": "Local Windows editor for MIDI-driven Live2D dance, lip-sync, stage visualization, and video export.",
+      "language": "TypeScript",
+      "stars": 0,
+      "forks": 0,
+      "pushed_at": "2026-08-17T11:31:10Z",
+      "created_at": "2026-08-17T11:23:00Z"
+    },
+    {
+      "id": 1349546130,
+      "name": "openfoam-cfd-agents",
+      "full_name": "hamletroyophelia/openfoam-cfd-agents",
+      "url": "https://github.com/hamletroyophelia/openfoam-cfd-agents",
+      "description": "Auditable multi-agent workflow foundations for Foundation OpenFOAM v14 CFD simulations",
+      "language": "Python",
+      "stars": 0,
+      "forks": 0,
+      "pushed_at": "2026-09-06T15:32:25Z",
+      "created_at": "2026-08-28T11:47:26Z"
+    },
+    {
+      "id": 1389304752,
+      "name": "music-production-agent",
+      "full_name": "hamletroyophelia/music-production-agent",
+      "url": "https://github.com/hamletroyophelia/music-production-agent",
+      "description": "A portable music-production agent workflow for Synthesizer V and REAPER, with targeted diagnostics and scaling-aware automation.",
+      "language": "Python",
+      "stars": 0,
+      "forks": 0,
+      "pushed_at": "2026-09-26T14:07:25Z",
+      "created_at": "2026-09-26T14:06:19Z"
+    },
+    {
+      "id": 1404081743,
+      "name": "safari-live-subtitles",
+      "full_name": "hamletroyophelia/safari-live-subtitles",
+      "url": "https://github.com/hamletroyophelia/safari-live-subtitles",
+      "description": "LiveLingo · Native macOS live bilingual subtitles for Safari audio. On-device Japanese/English speech recognition and Chinese translation.",
+      "language": "Swift",
+      "stars": 0,
+      "forks": 0,
+      "pushed_at": "2026-10-06T01:32:46Z",
+      "created_at": "2026-10-04T07:35:32Z"
+    }
+  ],
+  "metrics": {
+    "project_count": 7,
+    "total_stars": 1,
+    "total_forks": 0,
+    "language_count": 4,
+    "primary_languages": {
+      "Python": 4,
+      "Rust": 1,
+      "Swift": 1,
+      "TypeScript": 1
+    },
+    "public_owned_count": 9,
+    "followers": 0,
+    "following": 1,
+    "updated_projects_30d": 2
+  },
+  "public_manifest_evidence": [
+    {
+      "repository_id": 1337066938,
+      "path": "package.json",
+      "url": "https://github.com/hamletroyophelia/midi-dance-avatar/blob/HEAD/package.json",
+      "source_sha": "b535e9c9097b29ffbc63038480255868fc934dd8",
+      "technologies": [
+        "Electron",
+        "React",
+        "Vite"
+      ]
+    },
+    {
+      "repository_id": 1349546130,
+      "path": "pyproject.toml",
+      "url": "https://github.com/hamletroyophelia/openfoam-cfd-agents/blob/HEAD/pyproject.toml",
+      "source_sha": "36dfc7dfce80c826d55822da7f79e4124eb3004d",
+      "technologies": [
+        "Matplotlib",
+        "NumPy",
+        "SciPy"
+      ]
+    }
+  ],
+  "public_activity": {
+    "window_start": "2026-09-08",
+    "window_end": "2026-10-07",
+    "window_days": 30,
+    "followers": 0,
+    "following": 1,
+    "authored_commits": 8,
+    "created_prs": 0,
+    "created_issues": 0,
+    "sources": {
+      "followers": "https://api.github.com/users/hamletroyophelia",
+      "authored_commits": "https://api.github.com/search/commits?q=author%3Ahamletroyophelia%20is%3Apublic%20author-date%3A2026-09-08..2026-10-07%20-repo%3Ahamletroyophelia%2Fhamletroyophelia&per_page=1",
+      "created_prs": "https://api.github.com/search/issues?q=author%3Ahamletroyophelia%20is%3Apr%20is%3Apublic%20created%3A2026-09-08..2026-10-07%20-repo%3Ahamletroyophelia%2Fhamletroyophelia&per_page=1",
+      "created_issues": "https://api.github.com/search/issues?q=author%3Ahamletroyophelia%20is%3Aissue%20is%3Apublic%20created%3A2026-09-08..2026-10-07%20-repo%3Ahamletroyophelia%2Fhamletroyophelia&per_page=1"
+    },
+    "unavailable": {}
+  },
+  "observed_at": "2026-10-07T05:17:13Z",
+  "data_sha256": "972123ab4aa301abc37f0c949681f27957a9dce6c6644838652dcc6c3421c08d",
+  "source_url": "https://api.github.com/users/hamletroyophelia/repos"
+}

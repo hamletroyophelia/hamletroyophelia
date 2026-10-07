@@ -1,0 +1,30 @@
+{
+  "schema_version": 1,
+  "files": [
+    "README.md",
+    "assets/generated/achievement-first-echo.svg",
+    "assets/generated/achievement-first-flight.svg",
+    "assets/generated/achievement-flow-observer.svg",
+    "assets/generated/achievement-language-bridge.svg",
+    "assets/generated/achievement-language-runes.svg",
+    "assets/generated/achievement-map-maker.svg",
+    "assets/generated/achievement-sound-alchemist.svg",
+    "assets/generated/achievement-stage-builder.svg",
+    "assets/generated/activity.svg",
+    "assets/generated/languages.svg",
+    "assets/generated/status.svg",
+    "assets/generated/tech-01fad993ff61.svg",
+    "assets/generated/tech-18885f27b5af.svg",
+    "assets/generated/tech-20f3bd11a056.svg",
+    "assets/generated/tech-233935327d15.svg",
+    "assets/generated/tech-5ab5c9504b5e.svg",
+    "assets/generated/tech-61a62a841f54.svg",
+    "assets/generated/tech-ae8ed2743925.svg",
+    "assets/generated/tech-cdf74c872e4c.svg",
+    "assets/generated/tech-d9aa89fdd15a.svg",
+    "assets/generated/tech-ed0504f70a48.svg",
+    "data/achievement-evidence.json",
+    "data/generated-files.json",
+    "data/public-snapshot.json"
+  ]
+}
