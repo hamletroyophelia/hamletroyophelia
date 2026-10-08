@@ -93,16 +93,16 @@
 
 <p><img src="assets/generated/activity.svg" alt="近30天公开活动；未知值以破折号表示" width="400"></p>
 
-统计窗口：**2026-09-08 至 2026-10-07（30 个 UTC 日期）**。提交数取本人署名、公开仓库默认分支的 GitHub 搜索索引；PR/Issue 是本人在公开仓库新建的数量。排除主页仓库，含其他公开仓库中的贡献，不含私有活动或未索引提交。
+统计窗口：**2026-09-09 至 2026-10-08（30 个 UTC 日期）**。提交数取本人署名、公开仓库默认分支的 GitHub 搜索索引；PR/Issue 是本人在公开仓库新建的数量。排除主页仓库，含其他公开仓库中的贡献，不含私有活动或未索引提交。
 
 <details>
 <summary><b>Stats journal · 覆盖范围与来源</b></summary>
 
 - 更新的原创项目：2；依据纳入范围项目的最近 push 时间。
 
-- 公开署名提交：8；[公开查询](https://api.github.com/search/commits?q=author%3Ahamletroyophelia%20is%3Apublic%20author-date%3A2026-09-08..2026-10-07%20-repo%3Ahamletroyophelia%2Fhamletroyophelia&per_page=1)。
-- 新建 PR：0；[公开查询](https://api.github.com/search/issues?q=author%3Ahamletroyophelia%20is%3Apr%20is%3Apublic%20created%3A2026-09-08..2026-10-07%20-repo%3Ahamletroyophelia%2Fhamletroyophelia&per_page=1)。
-- 新建 Issue：0；[公开查询](https://api.github.com/search/issues?q=author%3Ahamletroyophelia%20is%3Aissue%20is%3Apublic%20created%3A2026-09-08..2026-10-07%20-repo%3Ahamletroyophelia%2Fhamletroyophelia&per_page=1)。
+- 公开署名提交：8；[公开查询](https://api.github.com/search/commits?q=author%3Ahamletroyophelia%20is%3Apublic%20author-date%3A2026-09-09..2026-10-08%20-repo%3Ahamletroyophelia%2Fhamletroyophelia&per_page=1)。
+- 新建 PR：0；[公开查询](https://api.github.com/search/issues?q=author%3Ahamletroyophelia%20is%3Apr%20is%3Apublic%20created%3A2026-09-09..2026-10-08%20-repo%3Ahamletroyophelia%2Fhamletroyophelia&per_page=1)。
+- 新建 Issue：0；[公开查询](https://api.github.com/search/issues?q=author%3Ahamletroyophelia%20is%3Aissue%20is%3Apublic%20created%3A2026-09-09..2026-10-08%20-repo%3Ahamletroyophelia%2Fhamletroyophelia&per_page=1)。
 
 搜索索引可能滞后；不将其视为完整的 GitHub 贡献图统计。未知不等于 0。
 
