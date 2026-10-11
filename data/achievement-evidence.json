@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "snapshot_sha256": "9348a7d666eeefe69153dcc9ce75b4e017894f98cfc8200d04ad19b3d9e09ae5",
+  "snapshot_sha256": "958e8ceb94b7e31a7331351ddaeab305319dc9add8d9e389f9524b1b045e4471",
   "achievements": [
     {
       "id": "first-flight",
@@ -78,7 +78,7 @@
       },
       "evidence": {
         "metric": "project_count",
-        "observed": 7,
+        "observed": 8,
         "threshold": 5
       }
     },
@@ -123,7 +123,7 @@
       },
       "evidence": {
         "metric": "project_count",
-        "observed": 7,
+        "observed": 8,
         "threshold": 10
       }
     },

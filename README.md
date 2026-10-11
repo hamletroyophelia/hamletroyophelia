@@ -42,9 +42,9 @@
 
 <p>
   <img src="assets/generated/tech-18885f27b5af.svg" alt="项目使用：Python" height="28">
+  <img src="assets/generated/tech-ed0504f70a48.svg" alt="项目使用：TypeScript" height="28">
   <img src="assets/generated/tech-d9aa89fdd15a.svg" alt="项目使用：Rust" height="28">
   <img src="assets/generated/tech-ae8ed2743925.svg" alt="项目使用：Swift" height="28">
-  <img src="assets/generated/tech-ed0504f70a48.svg" alt="项目使用：TypeScript" height="28">
   <img src="assets/generated/tech-61a62a841f54.svg" alt="项目使用：Electron" height="28">
   <img src="assets/generated/tech-cdf74c872e4c.svg" alt="项目使用：Matplotlib" height="28">
   <img src="assets/generated/tech-20f3bd11a056.svg" alt="项目使用：NumPy" height="28">
@@ -53,7 +53,7 @@
   <img src="assets/generated/tech-233935327d15.svg" alt="项目使用：Vite" height="28">
 </p>
 
-**主要语言** — Python（4 个仓库） · Rust（1 个仓库） · Swift（1 个仓库） · TypeScript（1 个仓库）
+**主要语言** — Python（4 个仓库） · TypeScript（2 个仓库） · Rust（1 个仓库） · Swift（1 个仓库）
 
 **公开依赖** — Electron · Matplotlib · NumPy · React · SciPy · Vite
 
@@ -83,32 +83,35 @@
 
 <!-- PROFILE-SYNC:projects:START -->
 <p>
-  <img src="assets/generated/status.svg" alt="公开原创项目 7 个，累计星标 1 个" width="400">
+  <img src="assets/generated/status.svg" alt="公开原创项目 8 个，累计星标 1 个" width="400">
   <img src="assets/generated/languages.svg" alt="仓库主要语言分布，按项目个数" width="400">
 </p>
 
-**公开原创项目 7 个** · **累计星标 1** · **仓库主要语言 4 种**
+**公开原创项目 8 个** · **累计星标 1** · **仓库主要语言 4 种**
 
-公开仓库共 **9** 个（含 fork、归档，排除主页）；本范围项目累计 Fork **0**。关注者 **0**，关注中 **1**。
+公开仓库共 **10** 个（含 fork、归档，排除主页）；本范围项目累计 Fork **0**。关注者 **0**，关注中 **1**。
 
 <p><img src="assets/generated/activity.svg" alt="近30天公开活动；未知值以破折号表示" width="400"></p>
 
-统计窗口：**2026-09-11 至 2026-10-10（30 个 UTC 日期）**。提交数取本人署名、公开仓库默认分支的 GitHub 搜索索引；PR/Issue 是本人在公开仓库新建的数量。排除主页仓库，含其他公开仓库中的贡献，不含私有活动或未索引提交。
+统计窗口：**2026-09-12 至 2026-10-11（30 个 UTC 日期）**。提交数取本人署名、公开仓库默认分支的 GitHub 搜索索引；PR/Issue 是本人在公开仓库新建的数量。排除主页仓库，含其他公开仓库中的贡献，不含私有活动或未索引提交。
 
 <details>
 <summary><b>Stats journal · 覆盖范围与来源</b></summary>
 
-- 更新的原创项目：2；依据纳入范围项目的最近 push 时间。
+- 更新的原创项目：3；依据纳入范围项目的最近 push 时间。
 
-- 公开署名提交：8；[公开查询](https://api.github.com/search/commits?q=author%3Ahamletroyophelia%20is%3Apublic%20author-date%3A2026-09-11..2026-10-10%20-repo%3Ahamletroyophelia%2Fhamletroyophelia&per_page=1)。
-- 新建 PR：0；[公开查询](https://api.github.com/search/issues?q=author%3Ahamletroyophelia%20is%3Apr%20is%3Apublic%20created%3A2026-09-11..2026-10-10%20-repo%3Ahamletroyophelia%2Fhamletroyophelia&per_page=1)。
-- 新建 Issue：0；[公开查询](https://api.github.com/search/issues?q=author%3Ahamletroyophelia%20is%3Aissue%20is%3Apublic%20created%3A2026-09-11..2026-10-10%20-repo%3Ahamletroyophelia%2Fhamletroyophelia&per_page=1)。
+- 公开署名提交：19；[公开查询](https://api.github.com/search/commits?q=author%3Ahamletroyophelia%20is%3Apublic%20author-date%3A2026-09-12..2026-10-11%20-repo%3Ahamletroyophelia%2Fhamletroyophelia&per_page=1)。
+- 新建 PR：0；[公开查询](https://api.github.com/search/issues?q=author%3Ahamletroyophelia%20is%3Apr%20is%3Apublic%20created%3A2026-09-12..2026-10-11%20-repo%3Ahamletroyophelia%2Fhamletroyophelia&per_page=1)。
+- 新建 Issue：0；[公开查询](https://api.github.com/search/issues?q=author%3Ahamletroyophelia%20is%3Aissue%20is%3Apublic%20created%3A2026-09-12..2026-10-11%20-repo%3Ahamletroyophelia%2Fhamletroyophelia&per_page=1)。
 
 搜索索引可能滞后；不将其视为完整的 GitHub 贡献图统计。未知不等于 0。
 
 </details>
 
 ### Recent quests · 最近更新
+
+**[riven-cloud-widget](https://github.com/hamletroyophelia/riven-cloud-widget)** · TypeScript · ★ 0 · 2026-10-11
+公开项目；介绍待补充。
 
 **[safari-live-subtitles](https://github.com/hamletroyophelia/safari-live-subtitles)** · Swift · ★ 0 · 2026-10-06
 LiveLingo · Native macOS live bilingual subtitles for Safari audio. On-device Japanese/English speech recognition and Chinese translation.
@@ -121,9 +124,6 @@ Auditable multi-agent workflow foundations for Foundation OpenFOAM v14 CFD simul
 
 **[midi-dance-avatar](https://github.com/hamletroyophelia/midi-dance-avatar)** · TypeScript · ★ 0 · 2026-08-17
 Local Windows editor for MIDI-driven Live2D dance, lip-sync, stage visualization, and video export.
-
-**[pot-app-collection-plugin-anki](https://github.com/hamletroyophelia/pot-app-collection-plugin-anki)** · Rust · ★ 0 · 2024-04-07
-公开项目；介绍待补充。
 
 <details>
 <summary><b>Main quest stories · 作品介绍</b></summary>
@@ -175,10 +175,10 @@ Local Windows editor for MIDI-driven Live2D dance, lip-sync, stage visualization
 - **声音炼金术** · 已解锁 — 本次公开数据中存在[对应原创仓库](https://github.com/hamletroyophelia/music-production-agent)。
 - **跨语之桥** · 已解锁 — 本次公开数据中存在[对应原创仓库](https://github.com/hamletroyophelia/safari-live-subtitles)。
 - **流场观察者** · 已解锁 — 本次公开数据中存在[对应原创仓库](https://github.com/hamletroyophelia/openfoam-cfd-agents)。
-- **地图拓荒者** · 已解锁 — 公开原创项目达到 5 个；当前值 7，门槛 5。
+- **地图拓荒者** · 已解锁 — 公开原创项目达到 5 个；当前值 8，门槛 5。
 - **初次回响** · 已解锁 — 公开原创项目获得至少 1 星；当前值 1，门槛 1。
 - **多语符文** · 已解锁 — 仓库主要语言达到 3 种；当前值 4，门槛 3。
-- **世界扩张** · 待解锁 — 公开原创项目达到 10 个；当前值 7，门槛 10。
+- **世界扩张** · 待解锁 — 公开原创项目达到 10 个；当前值 8，门槛 10。
 - **十重回响** · 待解锁 — 公开原创项目累计 10 星；当前值 1，门槛 10。
 
 </details>
