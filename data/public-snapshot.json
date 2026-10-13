@@ -142,8 +142,8 @@
     }
   ],
   "public_activity": {
-    "window_start": "2026-09-13",
-    "window_end": "2026-10-12",
+    "window_start": "2026-09-14",
+    "window_end": "2026-10-13",
     "window_days": 30,
     "followers": 0,
     "following": 1,
@@ -152,13 +152,13 @@
     "created_issues": 0,
     "sources": {
       "followers": "https://api.github.com/users/hamletroyophelia",
-      "authored_commits": "https://api.github.com/search/commits?q=author%3Ahamletroyophelia%20is%3Apublic%20author-date%3A2026-09-13..2026-10-12%20-repo%3Ahamletroyophelia%2Fhamletroyophelia&per_page=1",
-      "created_prs": "https://api.github.com/search/issues?q=author%3Ahamletroyophelia%20is%3Apr%20is%3Apublic%20created%3A2026-09-13..2026-10-12%20-repo%3Ahamletroyophelia%2Fhamletroyophelia&per_page=1",
-      "created_issues": "https://api.github.com/search/issues?q=author%3Ahamletroyophelia%20is%3Aissue%20is%3Apublic%20created%3A2026-09-13..2026-10-12%20-repo%3Ahamletroyophelia%2Fhamletroyophelia&per_page=1"
+      "authored_commits": "https://api.github.com/search/commits?q=author%3Ahamletroyophelia%20is%3Apublic%20author-date%3A2026-09-14..2026-10-13%20-repo%3Ahamletroyophelia%2Fhamletroyophelia&per_page=1",
+      "created_prs": "https://api.github.com/search/issues?q=author%3Ahamletroyophelia%20is%3Apr%20is%3Apublic%20created%3A2026-09-14..2026-10-13%20-repo%3Ahamletroyophelia%2Fhamletroyophelia&per_page=1",
+      "created_issues": "https://api.github.com/search/issues?q=author%3Ahamletroyophelia%20is%3Aissue%20is%3Apublic%20created%3A2026-09-14..2026-10-13%20-repo%3Ahamletroyophelia%2Fhamletroyophelia&per_page=1"
     },
     "unavailable": {}
   },
-  "observed_at": "2026-10-12T07:25:29Z",
-  "data_sha256": "e602f4b34c44800085115995956b8e24576cd9c00f075daebf22497f43ecd398",
+  "observed_at": "2026-10-13T07:46:43Z",
+  "data_sha256": "1cece13f1a6135290fb78ba6c6b75ac69615b7a9cb9299f77488e9a9b46b7a83",
   "source_url": "https://api.github.com/users/hamletroyophelia/repos"
 }
