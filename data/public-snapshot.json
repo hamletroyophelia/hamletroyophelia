@@ -142,23 +142,23 @@
     }
   ],
   "public_activity": {
-    "window_start": "2026-10-04",
-    "window_end": "2026-11-02",
+    "window_start": "2026-10-05",
+    "window_end": "2026-11-03",
     "window_days": 30,
     "followers": 0,
     "following": 1,
-    "authored_commits": 17,
+    "authored_commits": 12,
     "created_prs": 0,
     "created_issues": 0,
     "sources": {
       "followers": "https://api.github.com/users/hamletroyophelia",
-      "authored_commits": "https://api.github.com/search/commits?q=author%3Ahamletroyophelia%20is%3Apublic%20author-date%3A2026-10-04..2026-11-02%20-repo%3Ahamletroyophelia%2Fhamletroyophelia&per_page=1",
-      "created_prs": "https://api.github.com/search/issues?q=author%3Ahamletroyophelia%20is%3Apr%20is%3Apublic%20created%3A2026-10-04..2026-11-02%20-repo%3Ahamletroyophelia%2Fhamletroyophelia&per_page=1",
-      "created_issues": "https://api.github.com/search/issues?q=author%3Ahamletroyophelia%20is%3Aissue%20is%3Apublic%20created%3A2026-10-04..2026-11-02%20-repo%3Ahamletroyophelia%2Fhamletroyophelia&per_page=1"
+      "authored_commits": "https://api.github.com/search/commits?q=author%3Ahamletroyophelia%20is%3Apublic%20author-date%3A2026-10-05..2026-11-03%20-repo%3Ahamletroyophelia%2Fhamletroyophelia&per_page=1",
+      "created_prs": "https://api.github.com/search/issues?q=author%3Ahamletroyophelia%20is%3Apr%20is%3Apublic%20created%3A2026-10-05..2026-11-03%20-repo%3Ahamletroyophelia%2Fhamletroyophelia&per_page=1",
+      "created_issues": "https://api.github.com/search/issues?q=author%3Ahamletroyophelia%20is%3Aissue%20is%3Apublic%20created%3A2026-10-05..2026-11-03%20-repo%3Ahamletroyophelia%2Fhamletroyophelia&per_page=1"
     },
     "unavailable": {}
   },
-  "observed_at": "2026-11-02T07:43:04Z",
-  "data_sha256": "62317fef2cc62a20e3015387d57ce887b166e2effec4f261f24800941348ced2",
+  "observed_at": "2026-11-03T07:57:57Z",
+  "data_sha256": "6c5bebfc4477efb6a91de2ea210fb200db1c1d28fdab8d827b91c3cec67130ca",
   "source_url": "https://api.github.com/users/hamletroyophelia/repos"
 }
